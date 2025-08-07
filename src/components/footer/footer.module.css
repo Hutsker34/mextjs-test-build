@@ -1,0 +1,11 @@
+.footer{
+    margin: 0;
+    padding: 30px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
+}
+.span{
+    cursor: pointer;
+}
