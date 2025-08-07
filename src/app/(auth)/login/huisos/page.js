@@ -9,8 +9,7 @@ export default function Page() {
         <input placeholder='phone number'/>
        <input placeholder='login'/>
        <input placeholder='password'/>
-       <Link href="/signup">SIGNUP</Link>
-       <Link href="/login/huisos">huisos</Link>
+       <Link href="/signup">huisos</Link>
     </main>
   )
   
